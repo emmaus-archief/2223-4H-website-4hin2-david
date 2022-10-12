@@ -2,7 +2,7 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+## *FC Barcelona*
 
 *zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
 
