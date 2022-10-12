@@ -61,7 +61,9 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: skyblue;
+       background: linear-gradient(to right, blue 0%, red 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
 }
 
 .smalltext {
