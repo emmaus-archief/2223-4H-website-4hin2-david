@@ -41,8 +41,8 @@ Aan het einde van stap 2 heb je een werkend menu met minimaal vier lege subpagin
 Aan het einde van stap 3 heb je een hoofdpagina met een goede indeling en opmaak. 
 
 ### Stap 4: Plaatjes en tekst hoofdpagina
-- [ ] Je hebt in html de tekst op je hoofdpagina gezet. 
-- [ ] Je hebt plaatjes bij je teksten gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
+- [x] Je hebt in html de tekst op je hoofdpagina gezet. 
+- [x] Je hebt plaatjes bij je teksten gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
 
 Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 

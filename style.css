@@ -121,7 +121,17 @@ nav li a.active {
 }
 
 .barcelonainfo {
-  float:middle;
-  width:300px;
+  float:left;
+  width:250px;
+  padding-right:15px;
+}
+.barcelonaUCL {
+  float: left;
+  width: 400px;
+  padding-right:15px;
+}
+.stadium {
+  float:left;
+  width:700px;
   padding-right:15px;
 }
