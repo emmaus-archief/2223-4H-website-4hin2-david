@@ -129,9 +129,23 @@ nav li a.active {
   float: left;
   width: 400px;
   padding-right:15px;
+  margin-bottom:8%;
 }
 .stadium {
   float:left;
   width:700px;
+  padding-right:15px;
+}
+
+.opstelling {
+float:left;
+  width: 400px;
+  padding-right:15px;
+  margin-bottom:2%;
+}
+
+.legendes {
+  float:left;
+  width:350px;
   padding-right:15px;
 }
