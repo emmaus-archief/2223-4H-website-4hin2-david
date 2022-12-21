@@ -52,7 +52,7 @@ Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 
 ### Stap 6: Plaatjes en tekst subpagina's
-- [ ] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
+- [x] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
 Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
 

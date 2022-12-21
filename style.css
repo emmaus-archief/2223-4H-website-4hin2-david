@@ -9,7 +9,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
+  background-color: gray;    /* achtergrondkleur lichtgrijs */
   color: #303030;               /* tekstkleur donkergrijs */
 }  
 
@@ -120,6 +120,14 @@ nav li a.active {
   padding-right:15px;  
 }
 
+.naastnav {
+  width:550px;
+}
+
+.naastnav2 {
+  width:700px;
+}
+
 .barcelonainfo {
   float:left;
   width:250px;
@@ -157,5 +165,48 @@ float:left;
   margin-bottom:13%;
 }
 
+/* navigatie */
+#nav {
+  float:left; 
+  width: 150px; 
+  font-weight: bold; 
+  letter-spacing: 0.1em; 
+  padding: 10px 0 0 0;
+}  
+#nav ul{ 
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+#nav a {
+  text-decoration: none;
+  padding: 20px; 
+  display: block;
+  background-color: #FFFFFF;
+  border-bottom: 10x solid #000000;
+  background-image: url(afbeeldingen/barcelona.png);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+#nav a {
+  color: #dc143c;
+}
+#nav a:hover {
+  background-color: #EAEAEA;
+  color: #00008b
+}
 
-#nav {float:left; width: 150px; font-weight: bold; letter-spacing: 0.1em; padding: 10px 0 0 0;}
+#textbox {
+  background-color:#242424;
+  margin:20px;
+  float:left;
+}
+
+p {
+  color:white;
+}
+
+li {
+  color:white;
+}
