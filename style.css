@@ -121,6 +121,7 @@ nav li a.active {
   padding-right:15px;  
 }
 
+
 .naastnav {
   width:550px;
 }
@@ -160,12 +161,25 @@ float:left;
   padding-right:15px;
 }
 
+.cruyff {
+  float:left;
+  width:350px;
+  padding-right:15px;
+}
+
+.prime {
+  float:left;
+  width:350px;
+  padding-right:15px;
+}
+
 .lamasia {
 float:left;
   width: 450px;
   padding-right:15px;
   margin-bottom:13%;
 }
+
 
 /* Navigatie */
 #nav {
